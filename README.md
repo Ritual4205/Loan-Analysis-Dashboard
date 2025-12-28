@@ -15,4 +15,4 @@ This project analyzes loan data using MS Excel to evaluate loan performance, rep
 - Interactive dashboard with slicers and charts
 
 ## Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
